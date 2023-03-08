@@ -1,0 +1,7 @@
+C:\Users\ayazb\OneDrive\Desktop\DOTNET APP\helloazure\helloazure.web\bin\Debug\net6.0\publish\helloazure.web.exe
+C:\Users\ayazb\OneDrive\Desktop\DOTNET APP\helloazure\helloazure.web\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\Users\ayazb\OneDrive\Desktop\DOTNET APP\helloazure\helloazure.web\bin\Debug\net6.0\publish\appsettings.json
+C:\Users\ayazb\OneDrive\Desktop\DOTNET APP\helloazure\helloazure.web\bin\Debug\net6.0\publish\helloazure.web.dll
+C:\Users\ayazb\OneDrive\Desktop\DOTNET APP\helloazure\helloazure.web\bin\Debug\net6.0\publish\helloazure.web.deps.json
+C:\Users\ayazb\OneDrive\Desktop\DOTNET APP\helloazure\helloazure.web\bin\Debug\net6.0\publish\helloazure.web.runtimeconfig.json
+C:\Users\ayazb\OneDrive\Desktop\DOTNET APP\helloazure\helloazure.web\bin\Debug\net6.0\publish\helloazure.web.pdb
